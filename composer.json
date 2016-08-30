@@ -1,0 +1,28 @@
+{
+  "name": "churchCRM/CRM",
+  "type": "project",
+  "keywords": [
+    "church",
+    "crm"
+  ],
+  "homepage": "http://mnavarrocarter.github.com",
+  "time": "2014-10-01",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matias Navarro",
+      "homepage": "http://navarrocarter.com",
+      "role": "Desarrollador Principal"
+    }
+  ],
+  "support": {
+    "email": "mnavarrocarter@gmail.com",
+    "issues": "https://github.com/mnavarrocarter/ICManager/issues",
+    "irc": "",
+    "source": "https://github.com/mnavarrocarter/ICManager/",
+    "docs": ""
+  },
+  "require-dev": {
+    "phing/phing": "2.*"
+  }
+}
